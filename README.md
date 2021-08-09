@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aindriu80" alt="aindriu80" /></a> </p>
 
-<p align="center"> 🔭 I’m currently working on <a href="https://github.com/aindriu80/house-marketplace-react-project">A house marketplace app in React</a></p>
+<p align="center"> 🔭 I’m currently working with React</a></p>
 
 <p align="center">- 💬 Ask me about React </p>
 <p align="center">- 📫 How to reach me on Twitter</p>
