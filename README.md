@@ -12,18 +12,15 @@
 <p align="center">- ⚡ Fun fact I love cycling</p>
 
 <br>
+
 <h3 align="center">Connect with me:</h3>
-
 <p align="center">
-
-<a href="https://codepen.io/aindriu80" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aindriu80" height="30" width="40" /></a>
-
-<a href="https://dev.to/aindriu" target="blank"><img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aindriu" height="30" width="40" /></a>
-
-<a href="https://twitter.com/aindriu80" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aindriu80" height="30" width="40" /></a>
-
-<a href="https://stackoverflow.com/users/2757347/aindriú" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/2757347/aindriú" height="30" width="40" /></a>
-
+<a href="https://codepen.io/aindriu80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aindriu80" height="30" width="40" /></a>
+<a href="https://dev.to/aindriu80" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aindriu80" height="30" width="40" /></a>
+<a href="https://twitter.com/aindriu80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aindriu80" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aindriu-mac-giolla-eoin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aindriu-mac-giolla-eoin/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/2757347/aindriú" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2757347/aindriú" height="30" width="40" /></a>
+<a href="https://dribbble.com/aindriu80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="aindriu80" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
