@@ -15,11 +15,10 @@
 <a href="https://twitter.com/aindriu80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aindriu80" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/2757347/aindriú" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/2757347/aindriú" height="30" width="40" /></a>
 </p>
+
 <p align="center">
  <a href="https://app.daily.dev/aindriu" target="_blank">
-
 <img width="256" src="https://api.daily.dev/devcards/d3e08abc956e40119b4bd88de50d1b82.png?r=zw9"  alt="Aindriú Mac Giolla Eoin's Dev Card"/></a>
-
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
