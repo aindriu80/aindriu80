@@ -1,8 +1,7 @@
 <style type="text/css">
-  body{
-  font-size: 12pt;
+ 
   font-family: Roboto;
-}
+
 </style>
 
 <h1 align="center">Hallo 👋, I'm Aindriú</h1>
