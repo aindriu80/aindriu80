@@ -1,9 +1,3 @@
-<style type="text/css">
- 
-  font-family: Roboto;
-
-</style>
-
 <h1 align="center">Hallo 👋, I'm Aindriú</h1>
 <h3 align="center">A passionate frontend developer from Ireland</h3>
 
