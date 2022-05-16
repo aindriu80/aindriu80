@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg"/>
 
 </p>
+
 <p align="center"> 🔭 I’m currently working with React</a></p>
 
 <p align="center">- 💬 Ask me about React </p>
@@ -43,9 +44,21 @@
 </p>
 <div align="center">&nbsp;
 
-<img align="" src="https://github-readme-stats.vercel.app/api?username=aindriu80&theme=blue-green"/>
+<!-- <img align="" src="https://github-readme-stats.vercel.app/api?username=aindriu80&show_icons=true&locale=en" width="450" height="350" alt="aindriu80"> -->
+
+<img align="" src="https://github-readme-stats.vercel.app/api?username=aindriu80&theme=blue-green"
+
+<!-- )](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- <p align="center"> -->
+<!-- <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=aindriu80&show_icons=true&locale=en&layout=compact" width="450" height="350" alt="aindriu80" /> -->
 
 <img align="" src=" https://github-readme-stats.vercel.app/api/top-langs/?username=aindriu80&theme=blue-green"/>
- <img align="" src="https://github-readme-stats.vercel.app/api?username=aindriu80&theme=blue-green"/>
+ <!-- <img align="" src="https://github-readme-stats.vercel.app/api?username=aindriu80&theme=blue-green"/> -->
+<img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=aindriu80&theme=dark"/>
+<!-- <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=aindriu80" width="450" height="350" alt="aindriu80" /> -->
+<!-- <p align="right"> -->
+<!--
+
+<!-- </p> -->
 
 </div>
