@@ -1,17 +1,23 @@
 <h1 align="center">Hallo 👋, I'm Aindriú</h1>
 <h3 align="center">A passionate frontend developer from Ireland</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aindriu80&label=Profile%20views&color=0e75b6&style=flat" alt="aindriu80" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aindriu80&label=Profile%20views&color=0e75b6&style=flat" alt="aindriu80" />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aindriu80" alt="aindriu80" /></a> </p>
+<img src="https://svgshare.com/i/Zhy.svg"/>
 
+<img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/>
+
+<img src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg"/>
+
+</p>
 <p align="center"> 🔭 I’m currently working with React</a></p>
 
 <p align="center">- 💬 Ask me about React </p>
-<p align="center">- 📫 How to reach me on Twitter</p>
-<p align="center">- ⚡ Fun fact I love cycling</p>
+<p align="center">- 📫 Reach out me on Twitter</p>
+<p align="center">- ⚡ Fun fact - I love cycling!</p>
 
-<br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=aindriu80" alt="aindriu80" /></a> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -21,6 +27,10 @@
 <a href="https://linkedin.com/in/aindriu-mac-giolla-eoin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aindriu-mac-giolla-eoin/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/2757347/aindriú" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2757347/aindriú" height="30" width="40" /></a>
 <a href="https://dribbble.com/aindriu80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="aindriu80" height="30" width="40" /></a>
+
+<p align="center"><img src=https://github-readme-stackoverflow.vercel.app/?userID=2757347&layout=compact&theme=dark></a>
+</p>
+
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -33,15 +43,9 @@
 </p>
 <div align="center">&nbsp;
 
-<img align="" src="https://github-readme-stats.vercel.app/api?username=aindriu80&show_icons=true&locale=en" width="600" height="400" alt="aindriu80">
+<img align="" src="https://github-readme-stats.vercel.app/api?username=aindriu80&theme=blue-green"/>
 
-<!-- <p align="center"> -->
-<img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=aindriu80&show_icons=true&locale=en&layout=compact" width="600" height="400" alt="aindriu80" />
-
-<!-- <p align="right"> -->
-
-<img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=aindriu80" width="600" height="400" alt="aindriu80" />
-
-<!-- </p> -->
+<img align="" src=" https://github-readme-stats.vercel.app/api/top-langs/?username=aindriu80&theme=blue-green"/>
+ <img align="" src="https://github-readme-stats.vercel.app/api?username=aindriu80&theme=blue-green"/>
 
 </div>
