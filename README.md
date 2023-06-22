@@ -3,7 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aindriu80&label=Profile%20views&color=0e75b6&style=flat" alt="aindriu80" />
 
-<img src="https://svgshare.com/i/Zhy.svg"/>
 
 <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/>
 
