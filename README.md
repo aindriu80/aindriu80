@@ -1,4 +1,4 @@
-<h1 align="center">Hallo 👋, I'm Aindriú</h1>
+<h1 align="center">Hallo, I'm Aindriú</h1>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aindriu80&label=Profile%20views&color=0e75b6&style=flat" alt="aindriu80" />
