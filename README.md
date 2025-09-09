@@ -30,6 +30,6 @@
  
 <h3 align="center">Languages and Tools:</h3>
 <div align="center"> 
-<a href="https://github.com/aindriu80/aindriu80"><img src="https://skillicons.dev/icons?i=rust,cs,docker,linux,neovim,js,ts,react"/>
+<a href="https://github.com/aindriu80/aindriu80"><img src="https://skillicons.dev/icons?i=rust,cs,docker,linux,neovim,js,ts,react,solidity"/>
 </a>
 </div>
